@@ -25,7 +25,7 @@ SECRET_KEY = '5=xy(-4x#6uz=aap(@w@bxabpkkw06jlszbxk^@xnygc4knn#w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://mytradeapp123.herokuapp.com/']
 
 
 # Application definition
