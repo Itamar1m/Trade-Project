@@ -41,9 +41,8 @@ INSTALLED_APPS = [
     'accounts',
     'charts',
     'crispy_forms',
-    # 'materializecssform',
+    'materializecssform',
     'django_filters',
-    'django-materializecss-form'
 ]
 
 
