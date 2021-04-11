@@ -1,14 +1,10 @@
-
 appdirs==1.4.4
 attrs==20.3.0
-configobj==5.0.6
 crispy-forms-materialize==0.2
 decorator==4.4.2
-defusedxml==0.6.0
 distlib==0.3.1
 Django==3.1.7
 django-filter==2.4.0
-django-group-by==0.3.1
 django-materializecss-form==1.1.17
 filter==0.0.0.20200724
 finplot==1.6
@@ -17,5 +13,4 @@ multidict==5.1.0
 pgspecial==1.12.1
 plotly==4.14.3
 psycopg2==2.8.6
-python-dateutil==2.8.1
 requests==2.25.1
