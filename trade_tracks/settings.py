@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'charts',
     'crispy_forms',
     'materializecssform',
-    'django_filters',
+    # 'django_filters',
 ]
 
 
